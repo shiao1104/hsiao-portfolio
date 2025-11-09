@@ -8,5 +8,8 @@ export default function AppRoutes() {
     { path: "/", element: <Home /> },
     { path: "/projects-page", element: <ProjectsPage /> },
     { path: "/project/:id", element: <ProjectDetail /> },
+    {
+      path: "/hsiao-portfolio/",
+    }
   ]);
 }

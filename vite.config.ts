@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/shiao-portfolio/',
+    base: '/hsiao-portfolio/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
